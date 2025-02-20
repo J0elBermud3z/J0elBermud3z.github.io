@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Categorias"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
