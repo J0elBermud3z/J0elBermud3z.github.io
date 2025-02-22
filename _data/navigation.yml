@@ -1,0 +1,14 @@
+main:
+  - title: "Home"
+    url: /
+    icon: "/assets/images/nav_icons/home.svg"
+  - title: "Posts"
+    url: /year-archive/
+    icon: "/assets/images/nav_icons/posts.svg"
+  - title: "Categorias"
+    url: /categories/
+    icon: "/assets/images/nav_icons/categories.svg"
+  - title: "Tags"
+    url: /tags/
+    icon: "/assets/images/nav_icons/tags.svg"
+
