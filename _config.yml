@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "es"
-title                    : "Col0rbl1nd_.io"
+title                    : "0xJ0el.io"
 title_separator          : "-"
-name                     : "Col0rbl1nd_"
+name                     : "0xJ0el"
 description              : "En este rincón de Internet, encontrarás posts interesantes sobre ciberseguridad (Purple Team)."
 url                      : # "https://snowscan.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Col0rbl1nd_/Col0rbl1nd_.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "0xJ0el.io/0xJ0el.io.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : # "/assets/images/letters-3.png"
 favicon                  : "/assets/images/page.ico"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Col0rbl1nd_"
+  name             : "0xJ0el"
   avatar           : "/assets/images/profile_v2.gif"
   bio              : "- Aspiring Security Analyst<br>- CTF Player <br> By Joel Bermúdez"
   location         : #"Doxed"
